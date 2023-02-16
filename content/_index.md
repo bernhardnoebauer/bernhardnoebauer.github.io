@@ -1,7 +1,7 @@
 ---
-date: "2022-10-24"
+date: "2023-02-13"
 sections:
-- block: about.avatar
+- block: v1/about
   content:
     text: null
     username: admin
@@ -173,12 +173,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
+      city: Lausanne
+      country: Switzerland
+      country_code: CH
+      postcode: "1015"
+      region: VD
+      street: Internef
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
@@ -195,7 +195,7 @@ sections:
       link: https://zoom.com
       name: Zoom Me
     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+    email: bernhard.nobauer@unil.ch
     form:
       formspree:
         id: null
