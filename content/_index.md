@@ -6,50 +6,17 @@ sections:
     text: null
     username: admin
   id: about
-- block: features
+- block: collection
   content:
-    items:
-    - description: 90%
-      icon: r-project
-      icon_pack: fab
-      name: R
-    - description: 100%
-      icon: chart-line
-      icon_pack: fas
-      name: Statistics
-    - description: 10%
-      icon: camera-retro
-      icon_pack: fas
-      name: Photography
-    title: Skills
-- block: experience
-  content:
-    date_format: Jan 2006
-    items:
-    - company: GenCoin
-      company_logo: org-gc
-      company_url: ""
-      date_end: ""
-      date_start: "2021-01-01"
-      description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
-    title: Experience
+    filters:
+      featured_only: true
+      folders:
+      - publication
+    title: Working Papers
   design:
     columns: "2"
+    view: card
+  id: featured
 - block: accomplishments
   content:
     date_format: Jan 2006
@@ -130,17 +97,6 @@ sections:
     title: Gallery
   design:
     columns: "1"
-- block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Featured Publications
-  design:
-    columns: "2"
-    view: card
-  id: featured
 - block: collection
   content:
     filters:
