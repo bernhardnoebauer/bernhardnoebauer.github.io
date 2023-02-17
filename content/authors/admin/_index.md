@@ -22,7 +22,6 @@ interests:
 last_name: Noebauer
 organizations:
 - name: Université de Lausanne
-  url: https://www.unil.ch/de/en/home.html
 role: PhD Candidate in Economics
 social:
 - icon: envelope
@@ -38,5 +37,5 @@ title: Bernhard Nöbauer
 
 ## __Hi, I am Bernhard!__
 
-I am a PhD candidate at Université de Lausanne, working with Prof. Marius Brülhart. Last year, I had the privilege to visit the Wharton School at the University of Pennsylvania on the invitation of Prof. Gilles Duranton.
+I am a PhD candidate at [Université de Lausanne](https://www.unil.ch/de/en/home.html), working with [Prof. Marius Brülhart](https://people.unil.ch/mariusbrulhart/). Last year, I had the privilege to visit the [Wharton School](https://real-estate.wharton.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) on the invitation of [Prof. Gilles Duranton](https://real-estate.wharton.upenn.edu/profile/duranton/).
 {style="text-align: justify;"}

@@ -6,6 +6,15 @@ sections:
     text: null
     username: admin
   id: about
+  design:
+    background:
+      image:
+        filename: footer_lighter.jpg
+        darken: 1
+        size: contain
+        position: bottom
+        parallax: false
+        text_color_light: false
 - block: collection
   content:
     filters:
@@ -31,11 +40,11 @@ sections:
 - block: contact
   content:
     address:
-      city: Lausanne
+      city: 1015 Lausanne
       country: Switzerland
       country_code: CH
-      postcode: "1015"
-      region: VD
+      postcode:
+      region: Switzerland
       street: Office 508, Internef
     directions: Metro station UNIL-Chamberonne
     email: bernhard.nobauer@unil.ch
