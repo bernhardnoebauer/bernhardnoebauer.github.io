@@ -1,6 +1,4 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
 education:
   courses:
   - course: PhD in Economics
@@ -32,10 +30,11 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
-title: Bernhard Nöbauer
+#title: Bernhard Nöbauer
 ---
 
 ## __Hi, I am Bernhard!__
 
 I am a PhD candidate at [Université de Lausanne](https://www.unil.ch/de/en/home.html), working with [Prof. Marius Brülhart](https://people.unil.ch/mariusbrulhart/). Last year, I had the privilege to visit the [Wharton School](https://real-estate.wharton.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) on the invitation of [Prof. Gilles Duranton](https://real-estate.wharton.upenn.edu/profile/duranton/).
+<br/><br/>
 {style="text-align: justify;"}

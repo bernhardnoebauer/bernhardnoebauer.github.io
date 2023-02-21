@@ -1,0 +1,16 @@
+# Theme metadata
+name = "my_theme"
+
+[light]
+  # Primary
+  primary = "#540cb4"
+
+  # Menu
+  menu_primary = "#fff" # Material 500
+  menu_text = "#000"
+  menu_text_active = "#540cb4" # Material Complemantary 500
+  menu_title = "#000"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"

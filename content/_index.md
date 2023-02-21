@@ -9,12 +9,15 @@ sections:
   design:
     background:
       image:
-        filename: footer_lighter.jpg
+        filename: map_for_website.png
         darken: 1
         size: contain
         position: bottom
         parallax: false
         text_color_light: false
+    spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+      padding: ["50px", "0px", "170px", "0px"]
 - block: collection
   content:
     filters:
@@ -25,7 +28,7 @@ sections:
   design:
     columns: "2"
     view: card
-  id: featured
+  id: research
 - block: collection
   content:
     filters:
@@ -36,7 +39,7 @@ sections:
   design:
     columns: "2"
     view: card
-  id: featured
+  id: policy
 - block: contact
   content:
     address:
