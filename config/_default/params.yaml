@@ -52,7 +52,7 @@ footer:
 # Localization
 
 locale:
-  date_format: '2. Jan 2006'
+  date_format: 'January 2006'
   time_format: '15:04'
   address_format: en-us
 

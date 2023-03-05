@@ -24,7 +24,7 @@ role: PhD Candidate in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  url: "bernhard.nobauer@unil.ch"
+  link: mailto:bernhard.nobauer@unil.ch
 - display:
     header: true
 - icon: cv
